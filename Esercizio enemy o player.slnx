@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/doc/" />
+  <Folder Name="/src/">
+    <Project Path="BlaisePascal.EsercizioEnemy.Domain/BlaisePascal.EsercizioEnemy.Domain.csproj" />
+    <Project Path="BlaisePascal.EserczioEnemy.Console/BlaisePascal.EserczioEnemy.Console.csproj" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
