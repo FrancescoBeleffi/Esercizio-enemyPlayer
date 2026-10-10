@@ -4,5 +4,7 @@
     <Project Path="BlaisePascal.EsercizioEnemy.Domain/BlaisePascal.EsercizioEnemy.Domain.csproj" />
     <Project Path="BlaisePascal.EserczioEnemy.Console/BlaisePascal.EserczioEnemy.Console.csproj" />
   </Folder>
-  <Folder Name="/test/" />
+  <Folder Name="/test/">
+    <Project Path="BlaisePascal.EsercizioEnemy.Test/BlaisePascal.EsercizioEnemy.Test.csproj" Id="20021f64-8983-4d0b-9e51-1636ea03c0a3" />
+  </Folder>
 </Solution>
