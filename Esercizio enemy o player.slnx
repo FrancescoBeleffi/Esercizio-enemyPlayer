@@ -5,6 +5,7 @@
     <Project Path="BlaisePascal.EserczioEnemy.Console/BlaisePascal.EserczioEnemy.Console.csproj" />
   </Folder>
   <Folder Name="/test/">
-    <Project Path="BlaisePascal.EsercizioEnemy.Test/BlaisePascal.EsercizioEnemy.Test.csproj" Id="20021f64-8983-4d0b-9e51-1636ea03c0a3" />
+    <Project Path="BlaisePascal.EsercizioEnemy.Test/BlaisePascal.Player.Test.csproj" Id="20021f64-8983-4d0b-9e51-1636ea03c0a3" />
+    <Project Path="EnemyTest/BlaisePascal.Enemy.Test.csproj" Id="dc903285-69a9-4aec-bcc0-7c4140dcbcdd" />
   </Folder>
 </Solution>
